@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\web.ui\\views\\chanson\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\views\\chanson\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\web.ui\\controllers\\chansoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\controllers\\chansoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\web.ui\\views\\chanson\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\views\\chanson\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\web.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\applicationcore\\interfaces\\iservicechanson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\interfaces\\iservicechanson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\applicationcore\\services\\servicechanson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\services\\servicechanson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\applicationcore\\domain\\chanson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\domain\\chanson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\applicationcore\\domain\\artiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\domain\\artiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\WEB.UI\\Views\\Chanson\\Create.cshtml",
+              "RelativeDocumentMoniker": "WEB.UI\\Views\\Chanson\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\WEB.UI\\Views\\Chanson\\Create.cshtml",
+              "RelativeToolTip": "WEB.UI\\Views\\Chanson\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T23:25:05.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\WEB.UI\\Views\\Chanson\\Index.cshtml",
+              "RelativeDocumentMoniker": "WEB.UI\\Views\\Chanson\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\WEB.UI\\Views\\Chanson\\Index.cshtml",
+              "RelativeToolTip": "WEB.UI\\Views\\Chanson\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-30T23:21:24.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceChanson.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Services\\ServiceChanson.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Services\\ServiceChanson.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Services\\ServiceChanson.cs",
+              "RelativeToolTip": "ApplicationCore\\Services\\ServiceChanson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:16:34.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IServiceChanson.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Interfaces\\IServiceChanson.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Interfaces\\IServiceChanson.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Interfaces\\IServiceChanson.cs",
+              "RelativeToolTip": "ApplicationCore\\Interfaces\\IServiceChanson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:16:23.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Chanson.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Domain\\Chanson.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Domain\\Chanson.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Domain\\Chanson.cs",
+              "RelativeToolTip": "ApplicationCore\\Domain\\Chanson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:15:57.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\WEB.UI\\Program.cs",
+              "RelativeDocumentMoniker": "WEB.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\WEB.UI\\Program.cs",
+              "RelativeToolTip": "WEB.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:15:10.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChansonController.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\WEB.UI\\Controllers\\ChansonController.cs",
+              "RelativeDocumentMoniker": "WEB.UI\\Controllers\\ChansonController.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\WEB.UI\\Controllers\\ChansonController.cs",
+              "RelativeToolTip": "WEB.UI\\Controllers\\ChansonController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:14:44.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Artiste.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Domain\\Artiste.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Domain\\Artiste.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Domain\\Artiste.cs",
+              "RelativeToolTip": "ApplicationCore\\Domain\\Artiste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:12:06.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1039,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1029,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
