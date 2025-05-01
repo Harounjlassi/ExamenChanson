@@ -26,6 +26,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\WEB.UI
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Haroun_Jlassi_OD/Desktop/OD/.NET/exemen/ExamenS1/Examen/WEB.UI/Views/Artiste/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Haroun_Jlassi_OD/Desktop/OD/.NET/exemen/ExamenS1/Examen/WEB.UI/Views/Artiste/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXJ0aXN0ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Haroun_Jlassi_OD/Desktop/OD/.NET/exemen/ExamenS1/Examen/WEB.UI/Views/Chanson/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhbnNvblxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

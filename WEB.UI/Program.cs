@@ -14,6 +14,8 @@ builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
 builder.Services.AddSingleton<Type>(p => typeof(GenericRepository<>));
 //add instance of services
 builder.Services.AddScoped<IServiceChanson, ServiceChanson>();
+builder.Services.AddScoped<IServiceArtiste, ServiceArtiste>();
+
 
 
 var app = builder.Build();

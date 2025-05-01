@@ -1,55 +1,43 @@
-﻿using ApplicationCore.Domain;
-using ApplicationCore.Interfaces;
+﻿using ApplicationCore.Interfaces;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace WEB.UI.Controllers
 {
-    public class ChansonController : Controller
+    public class ArtisteController : Controller
     {
-        IServiceChanson sf;
         IServiceArtiste sa;
 
-        public ChansonController(IServiceChanson sf, IServiceArtiste sa)
+        public ArtisteController(IServiceArtiste sa)
         {
-            this.sf = sf;
             this.sa = sa;
         }
 
-
-
-        // GET: ChansonController
+        // GET: ArtisteController
         public ActionResult Index()
         {
-            return View(sf.GetAll().OrderBy(c=>c.VuesYoutube));
+            return View(sa.GetAll());
         }
 
-        // GET: ChansonController/Details/5
+        // GET: ArtisteController/Details/5
         public ActionResult Details(int id)
         {
-            return View();
+            return View(sa.GetMany(a=>a.ArtisteId==id).FirstOrDefault());
         }
 
-        // GET: ChansonController/Create
+        // GET: ArtisteController/Create
         public ActionResult Create()
         {
-            ViewBag.ArtisteList = new SelectList(sa.GetAll(), "ArtisteId", "Nom");
-
             return View();
         }
 
-        // POST: ChansonController/Create
+        // POST: ArtisteController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(Chanson ch)
+        public ActionResult Create(IFormCollection collection)
         {
             try
             {
-                ViewBag.ArtisteList = new SelectList(sa.GetAll(), "ArtisteId", "Nom");
-
-                sf.Add(ch);
-                sf.Commit();
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -58,13 +46,13 @@ namespace WEB.UI.Controllers
             }
         }
 
-        // GET: ChansonController/Edit/5
+        // GET: ArtisteController/Edit/5
         public ActionResult Edit(int id)
         {
             return View();
         }
 
-        // POST: ChansonController/Edit/5
+        // POST: ArtisteController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Edit(int id, IFormCollection collection)
@@ -79,13 +67,13 @@ namespace WEB.UI.Controllers
             }
         }
 
-        // GET: ChansonController/Delete/5
+        // GET: ArtisteController/Delete/5
         public ActionResult Delete(int id)
         {
             return View();
         }
 
-        // POST: ChansonController/Delete/5
+        // POST: ArtisteController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Delete(int id, IFormCollection collection)
