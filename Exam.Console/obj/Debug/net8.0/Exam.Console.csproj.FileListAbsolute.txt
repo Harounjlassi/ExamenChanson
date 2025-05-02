@@ -270,6 +270,7 @@ C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\Exam.Console\ob
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\Exam.Console\obj\Debug\net8.0\Exam.Console.AssemblyInfoInputs.cache
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\Exam.Console\obj\Debug\net8.0\Exam.Console.AssemblyInfo.cs
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\Exam.Console\obj\Debug\net8.0\Exam.Console.csproj.CoreCompileInputs.cache
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\Exam.Console\obj\Debug\net8.0\Exam.Console.sourcelink.json
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\Exam.Console\obj\Debug\net8.0\Exam.Con.BCAAD14E.Up2Date
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\Exam.Console\obj\Debug\net8.0\Exam.Console.dll
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\Exam.Console\obj\Debug\net8.0\refint\Exam.Console.dll

@@ -26,10 +26,10 @@ C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\Exam.Infrastruc
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.AssemblyInfo.cs
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.sourcelink.json
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Inf.E86AC6A0.Up2Date
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.dll
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\Exam.Infrastructure\obj\Debug\net8.0\refint\Exam.Infrastructure.dll
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.pdb
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.genruntimeconfig.cache
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\Exam.Infrastructure\obj\Debug\net8.0\ref\Exam.Infrastructure.dll
-C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\Exam.Infrastructure\obj\Debug\net8.0\Exam.Infrastructure.sourcelink.json

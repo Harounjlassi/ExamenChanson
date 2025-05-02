@@ -8,11 +8,7 @@ using ApplicationCore.Domain;
 
 namespace ApplicationCore.Interfaces
 {
-    public interface IServiceChanson:IService<Chanson>
-
+    public interface IFestivalService:IService<Festival>
     {
-        void GetMusicalStyle(StyleMusic st);
-        void GetMusicalStyledebug(StyleMusic st);
-        IList<Chanson> GetFiveChanson(Artiste ar);
     }
 }

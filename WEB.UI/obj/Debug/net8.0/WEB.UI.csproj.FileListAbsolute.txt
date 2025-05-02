@@ -246,6 +246,7 @@ C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\WEB.UI\obj\Debu
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\WEB.UI\obj\Debug\net8.0\WEB.UI.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\WEB.UI\obj\Debug\net8.0\WEB.UI.RazorAssemblyInfo.cache
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\WEB.UI\obj\Debug\net8.0\WEB.UI.RazorAssemblyInfo.cs
+C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\WEB.UI\obj\Debug\net8.0\WEB.UI.sourcelink.json
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\WEB.UI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\WEB.UI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\WEB.UI\obj\Debug\net8.0\staticwebassets\msbuild.WEB.UI.Microsoft.AspNetCore.StaticWebAssets.props
@@ -262,4 +263,3 @@ C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\WEB.UI\obj\Debu
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\WEB.UI\obj\Debug\net8.0\WEB.UI.pdb
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\WEB.UI\obj\Debug\net8.0\WEB.UI.genruntimeconfig.cache
 C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\WEB.UI\obj\Debug\net8.0\ref\WEB.UI.dll
-C:\Users\Haroun_Jlassi_OD\Desktop\OD\.NET\exemen\ExamenS1\Examen\WEB.UI\obj\Debug\net8.0\WEB.UI.sourcelink.json

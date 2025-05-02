@@ -3,56 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\web.ui\\views\\chanson\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\views\\chanson\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{89CCECF6-0357-4AFB-8E1F-103AF434A8BF}|Exam.Infrastructure\\Exam.Infrastructure.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\exam.infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89CCECF6-0357-4AFB-8E1F-103AF434A8BF}|Exam.Infrastructure\\Exam.Infrastructure.csproj|solutionrelative:exam.infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\web.ui\\controllers\\artistecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\controllers\\artistecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89CCECF6-0357-4AFB-8E1F-103AF434A8BF}|Exam.Infrastructure\\Exam.Infrastructure.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\exam.infrastructure\\configurations\\concertsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89CCECF6-0357-4AFB-8E1F-103AF434A8BF}|Exam.Infrastructure\\Exam.Infrastructure.csproj|solutionrelative:exam.infrastructure\\configurations\\concertsconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\web.ui\\views\\artiste\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\views\\artiste\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{89CCECF6-0357-4AFB-8E1F-103AF434A8BF}|Exam.Infrastructure\\Exam.Infrastructure.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\exam.infrastructure\\examcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89CCECF6-0357-4AFB-8E1F-103AF434A8BF}|Exam.Infrastructure\\Exam.Infrastructure.csproj|solutionrelative:exam.infrastructure\\examcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\web.ui\\views\\artiste\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\views\\artiste\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/HarounjlassiArtist/True/SqlTable/dbo.Chanson.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\web.ui\\controllers\\chansoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\controllers\\chansoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/HarounjlassiArtist/True/SqlTable/dbo.Festival.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\web.ui\\views\\chanson\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\views\\chanson\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/HarounjlassiArtist/True/SqlTable/dbo.Artiste.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\web.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A40C9051-BD1F-49AB-802A-8F8A8A1CB2C4}|WEB.UI\\WEB.UI.csproj|solutionrelative:web.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\applicationcore\\services\\serviceartiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\services\\serviceartiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\applicationcore\\interfaces\\iserviceartiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\interfaces\\iserviceartiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\applicationcore\\domain\\artiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\domain\\artiste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\applicationcore\\domain\\chanson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\domain\\chanson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\applicationcore\\interfaces\\iservicechanson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\interfaces\\iservicechanson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A6CEE800-E9BA-46FE-BE4D-C7967707CA27}|Exam.Console\\Exam.Console.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\exam.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6CEE800-E9BA-46FE-BE4D-C7967707CA27}|Exam.Console\\Exam.Console.csproj|solutionrelative:exam.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\applicationcore\\services\\servicechanson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\services\\servicechanson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\applicationcore\\services\\festivalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\services\\festivalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/HarounjlassiArtist/True/SqlTable/dbo.Concert.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\applicationcore\\services\\concertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\services\\concertservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\applicationcore\\domain\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\domain\\concert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\applicationcore\\domain\\festival.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\domain\\festival.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|c:\\users\\haroun_jlassi_od\\desktop\\od\\.net\\exemen\\examens1\\examen\\applicationcore\\interfaces\\ifestivalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F2C83B9-4182-4927-A436-9D7ACE104B99}|ApplicationCore\\ApplicationCore.csproj|solutionrelative:applicationcore\\interfaces\\ifestivalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,178 +62,181 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\WEB.UI\\Views\\Artiste\\Details.cshtml",
-              "RelativeDocumentMoniker": "WEB.UI\\Views\\Artiste\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\WEB.UI\\Views\\Artiste\\Details.cshtml",
-              "RelativeToolTip": "WEB.UI\\Views\\Artiste\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T14:42:18.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\WEB.UI\\Views\\Artiste\\Index.cshtml",
-              "RelativeDocumentMoniker": "WEB.UI\\Views\\Artiste\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\WEB.UI\\Views\\Artiste\\Index.cshtml",
-              "RelativeToolTip": "WEB.UI\\Views\\Artiste\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADoAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-01T14:40:25.225Z",
+              "Title": "ExamContext.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\Exam.Infrastructure\\ExamContext.cs",
+              "RelativeDocumentMoniker": "Exam.Infrastructure\\ExamContext.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\Exam.Infrastructure\\ExamContext.cs",
+              "RelativeToolTip": "Exam.Infrastructure\\ExamContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:23:15.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ArtisteController.cs",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\WEB.UI\\Controllers\\ArtisteController.cs",
-              "RelativeDocumentMoniker": "WEB.UI\\Controllers\\ArtisteController.cs",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\WEB.UI\\Controllers\\ArtisteController.cs",
-              "RelativeToolTip": "WEB.UI\\Controllers\\ArtisteController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAABHAAAAAAAAAA==",
+              "Title": "ConcertsConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\Exam.Infrastructure\\Configurations\\ConcertsConfiguration.cs",
+              "RelativeDocumentMoniker": "Exam.Infrastructure\\Configurations\\ConcertsConfiguration.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\Exam.Infrastructure\\Configurations\\ConcertsConfiguration.cs",
+              "RelativeToolTip": "Exam.Infrastructure\\Configurations\\ConcertsConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T14:39:05.003Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ChansonController.cs",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\WEB.UI\\Controllers\\ChansonController.cs",
-              "RelativeDocumentMoniker": "WEB.UI\\Controllers\\ChansonController.cs",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\WEB.UI\\Controllers\\ChansonController.cs",
-              "RelativeToolTip": "WEB.UI\\Controllers\\ChansonController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBgAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T23:14:44.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\WEB.UI\\Views\\Chanson\\Create.cshtml",
-              "RelativeDocumentMoniker": "WEB.UI\\Views\\Chanson\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\WEB.UI\\Views\\Chanson\\Create.cshtml",
-              "RelativeToolTip": "WEB.UI\\Views\\Chanson\\Create.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAB+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T23:25:05.767Z",
+              "WhenOpened": "2025-05-02T14:23:08.848Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\WEB.UI\\Views\\Chanson\\Index.cshtml",
-              "RelativeDocumentMoniker": "WEB.UI\\Views\\Chanson\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\WEB.UI\\Views\\Chanson\\Index.cshtml",
-              "RelativeToolTip": "WEB.UI\\Views\\Chanson\\Index.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAEIAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-30T23:21:24.66Z",
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\Exam.Infrastructure\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Exam.Infrastructure\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\Exam.Infrastructure\\GenericRepository.cs",
+              "RelativeToolTip": "Exam.Infrastructure\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:23:06.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ServiceChanson.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Services\\ServiceChanson.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Services\\ServiceChanson.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Services\\ServiceChanson.cs",
+              "RelativeToolTip": "ApplicationCore\\Services\\ServiceChanson.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T14:11:10.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\WEB.UI\\Program.cs",
-              "RelativeDocumentMoniker": "WEB.UI\\Program.cs",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\WEB.UI\\Program.cs",
-              "RelativeToolTip": "WEB.UI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\Exam.Console\\Program.cs",
+              "RelativeDocumentMoniker": "Exam.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\Exam.Console\\Program.cs",
+              "RelativeToolTip": "Exam.Console\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADsAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T23:15:10.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ServiceArtiste.cs",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Services\\ServiceArtiste.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Services\\ServiceArtiste.cs",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Services\\ServiceArtiste.cs",
-              "RelativeToolTip": "ApplicationCore\\Services\\ServiceArtiste.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T14:23:38.78Z",
+              "WhenOpened": "2025-05-02T14:08:09.243Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "IServiceArtiste.cs",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Interfaces\\IServiceArtiste.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Interfaces\\IServiceArtiste.cs",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Interfaces\\IServiceArtiste.cs",
-              "RelativeToolTip": "ApplicationCore\\Interfaces\\IServiceArtiste.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Title": "FestivalService.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Services\\FestivalService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Services\\FestivalService.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Services\\FestivalService.cs",
+              "RelativeToolTip": "ApplicationCore\\Services\\FestivalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-01T14:23:08.069Z",
+              "WhenOpened": "2025-05-02T12:13:59.024Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Chanson.cs",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Domain\\Chanson.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Domain\\Chanson.cs",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Domain\\Chanson.cs",
-              "RelativeToolTip": "ApplicationCore\\Domain\\Chanson.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwAoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T23:15:57.782Z",
+              "DocumentIndex": 3,
+              "Title": "dbo.Chanson [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/HarounjlassiArtist/True/SqlTable/dbo.Chanson.sql",
+              "ToolTip": "dbo.Chanson [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-02T11:14:47.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IServiceChanson.cs",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Interfaces\\IServiceChanson.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Interfaces\\IServiceChanson.cs",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Interfaces\\IServiceChanson.cs",
-              "RelativeToolTip": "ApplicationCore\\Interfaces\\IServiceChanson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T23:16:23.288Z"
+              "DocumentIndex": 4,
+              "Title": "dbo.Festival [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/HarounjlassiArtist/True/SqlTable/dbo.Festival.sql",
+              "ToolTip": "dbo.Festival [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-02T11:06:49.876Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Artiste.cs",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Domain\\Artiste.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Domain\\Artiste.cs",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Domain\\Artiste.cs",
-              "RelativeToolTip": "ApplicationCore\\Domain\\Artiste.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T23:12:06.992Z",
+              "DocumentIndex": 5,
+              "Title": "dbo.Artiste [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/HarounjlassiArtist/True/SqlTable/dbo.Artiste.sql",
+              "ToolTip": "dbo.Artiste [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-02T11:06:48.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "ServiceChanson.cs",
-              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Services\\ServiceChanson.cs",
-              "RelativeDocumentMoniker": "ApplicationCore\\Services\\ServiceChanson.cs",
-              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Services\\ServiceChanson.cs",
-              "RelativeToolTip": "ApplicationCore\\Services\\ServiceChanson.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Title": "Festival.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Domain\\Festival.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Domain\\Festival.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Domain\\Festival.cs",
+              "RelativeToolTip": "ApplicationCore\\Domain\\Festival.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-30T23:16:34.045Z"
+              "WhenOpened": "2025-05-02T12:11:43.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Concert [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/HarounjlassiArtist/True/SqlTable/dbo.Concert.sql",
+              "ToolTip": "dbo.Concert [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-02T11:05:27.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFestivalService.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Interfaces\\IFestivalService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Interfaces\\IFestivalService.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Interfaces\\IFestivalService.cs",
+              "RelativeToolTip": "ApplicationCore\\Interfaces\\IFestivalService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T12:13:16.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Concert.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Domain\\Concert.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Domain\\Concert.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Domain\\Concert.cs",
+              "RelativeToolTip": "ApplicationCore\\Domain\\Concert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T11:03:47.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConcertService.cs",
+              "DocumentMoniker": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Services\\ConcertService.cs",
+              "RelativeDocumentMoniker": "ApplicationCore\\Services\\ConcertService.cs",
+              "ToolTip": "C:\\Users\\Haroun_Jlassi_OD\\Desktop\\OD\\.NET\\exemen\\ExamenS1\\Examen\\ApplicationCore\\Services\\ConcertService.cs",
+              "RelativeToolTip": "ApplicationCore\\Services\\ConcertService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T09:45:54.367Z",
+              "EditorCaption": ""
             }
           ]
         },
